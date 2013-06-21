@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "me.gaius.aersia"
+    versionCode="10" 
+    version   = "1.0.0">
+    
+    <name>HTML5 Aersia</name>
+    
+    <description>
+        HTML5 Aersia Player
+    </description>
+    
+    <author href="http://gaius.me" email="gaius@about.me">
+        Erik Gaius Capistrano 
+    </author>
+    
+    <preference name="phonegap-version" value="2.7.0" />
+    <preference name="webviewbounce" value="false" />    
+    <preference name="permissions" value="none"/>
+</widget>
